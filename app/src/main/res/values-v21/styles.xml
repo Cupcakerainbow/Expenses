@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Mytheme" parent="android:Theme.Light">
+        <item name="android:colorBackground">#e5f4e5</item>
+        <item name="android:colorPrimaryDark">#b8ffe1</item>
+        <item name="android:colorPrimary">#00cc00</item>
+        <item name="android:colorForeground">#c9ffc7</item>
+        <item name="android:navigationBarColor">#0caa41</item>
+        <item name="android:statusBarColor">#0caa41</item>
+        <item name="android:textColorPrimary">#564b3e</item>
+        <item name="android:textColorSecondary">#564b3e</item>
+    </style>
+</resources>
